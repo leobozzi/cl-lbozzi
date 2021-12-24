@@ -62,16 +62,6 @@
         'padron_afip',
         'l10n_ar_stock',
 
-        # ndm
-        # 'bit_ndm',
-        # 'bit_ndm_dhcp',
-        # 'bit_ndm_ftth',
-        # 'bit_ndm_ftth_zxr10',
-        # 'bit_ndm_network',
-        # 'bit_ndm_snmp',
-        # 'bit_ndm_ssh',
-        # 'product_brand',
-
         # Utils
         'web_search_with_and',
         'auto_backup',
