@@ -26,14 +26,16 @@
     'author': 'Leonardo Bozzi',
     'depends': [
         # Applicaciones del Cliente
-        'sale',
+        'crm',
         'sale_management',
         'purchase',
+        'project',
         'stock',
         'hr',
         'hr_expense',
-        'calendar',
         'website',
+        'note',
+        'board',
 
         # Contabilidad
         'account',
