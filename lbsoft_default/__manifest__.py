@@ -42,6 +42,7 @@
         'account_ux',
         'account_check',
         'account_financial_report',
+        'account_invoice_pricelist',
         'account_menu',
         'partner_statement',
         'account_journal_security',
@@ -127,7 +128,9 @@
         # 'https://github.com/OCA/account-closing oca-account-closing',
         'https://github.com/OCA/account-financial-reporting oca-account-financial-reporting',  # noqa
         'https://github.com/OCA/account-financial-tools oca-account-financial-tools',
+        'https://github.com/OCA/account-invoicing oca-account-invoicing',
         'https://github.com/OCA/account-payment oca-account-payment',
+
         # 'https://github.com/OCA/apps-store oca-apps-store',
         # 'https://github.com/OCA/bank-payment oca-bank-payment',
         'https://github.com/OCA/brand oca-brand',
