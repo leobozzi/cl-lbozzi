@@ -19,7 +19,7 @@
 # -----------------------------------------------------------------------------------
 {
     'name': 'lbsoft',
-    'version': '13.0.0.0.0',
+    'version': '12.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customización LBSoft',
@@ -219,7 +219,7 @@
     ],
 
     'docker-images': [
-       'odoo lbozzi/odoo-docker-lb:13.0.ou',
+       'odoo lbozzi/odoo-docker-lb:12.0.ou',
        'postgres postgres:11.1-alpine',
        'aeroo adhoc/aeroo-docs',
        'nginx nginx',
