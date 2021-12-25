@@ -51,6 +51,11 @@
         'accounting_pdf_reports',
         'product_price_taxes_included',
 
+        # Project
+        'pad_project',
+        'project_stage',
+        'project_ux',
+
         # Localización
         'l10n_ar',
         'l10n_ar_ux',
@@ -161,8 +166,8 @@
         # 'https://github.com/OCA/pos oca-pos',
         # 'https://github.com/OCA/product-attribute oca-product-attribute',
         # 'https://github.com/OCA/product-pack oca-product-pack',
-        # 'https://github.com/OCA/project oca-project',
-        # 'https://github.com/OCA/project-reporting oca-project-reporting',
+        'https://github.com/OCA/project oca-project',
+        'https://github.com/OCA/project-reporting oca-project-reporting',
         # 'https://github.com/OCA/purchase-workflow oca-purchase-workflow',
         # 'https://github.com/OCA/queue oca-queue',
         # 'https://github.com/OCA/report-print-send oca-report-print-send',
@@ -205,7 +210,7 @@
         'https://github.com/ingadhoc/odoo-argentina-ce ingadhoc-odoo-argentina-ce',
         # 'https://github.com/ingadhoc/partner ingadhoc-partner',
         'https://github.com/ingadhoc/product ingadhoc-product',
-        # 'https://github.com/ingadhoc/project ingadhoc-project',
+        'https://github.com/ingadhoc/project ingadhoc-project',
         # 'https://github.com/ingadhoc/purchase ingadhoc-purchase',
         'https://github.com/ingadhoc/reporting-engine ingadhoc-reporting-engine',
         'https://github.com/ingadhoc/sale ingadhoc-sale',
