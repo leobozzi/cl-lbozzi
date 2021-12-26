@@ -18,7 +18,7 @@
 #
 # -----------------------------------------------------------------------------------
 {
-    'name': 'lbsoft',
+    'name': 'lbsoft12',
     'version': '12.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
