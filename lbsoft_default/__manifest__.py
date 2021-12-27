@@ -33,6 +33,7 @@
         'stock',
         'hr',
         'hr_expense',
+        'hr_timesheet',
         'website',
         'note',
         'board',
