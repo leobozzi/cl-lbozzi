@@ -117,7 +117,7 @@
 
     'git-repos': [
         'https://github.com/leobozzi/cl-lbsoft.git',
-        'https://github.com/leobozzi/odoo-addons-utils bit-odoo-addons-utils',
+        # 'https://github.com/leobozzi/odoo-addons-utils bit-odoo-addons-utils',
         # 'https://github.com/leobozzi/odoo-custom bit-odoo-custom',
 
         # Odoomates
