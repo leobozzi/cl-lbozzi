@@ -24,7 +24,7 @@
     'category': 'Tools',
     'summary': 'Customización LBSoft',
     'author': 'Leonardo Bozzi',
-'depends': [
+    'depends': [
         # Applicaciones del Cliente
         'sale',
         'sale_management',
@@ -216,7 +216,7 @@
     ],
 
     'git-repos': [
-        'https://github.com/leobozzi/cl-hormimax.git',
+        'https://github.com/leobozzi/cl-lbsoft.git',
         'https://github.com/leobozzi/odoo-addons-utils bit-odoo-addons-utils',
 
         # Odoomates
